@@ -22,6 +22,8 @@ The goal of this lab is to reproduce the `Smashing Magazine` website!
 - Add a media query with a breakpoint at `768px` that:
 	- Lays out a two column design.
 	- Renders a full nav bar as shown up above.
+	
+*Pssssttttt... need to review media queries?* (here's a quick review)[https://github.com/WDI-SEA/responsive-design-lab/blob/master/04-responsive-design-lab.md]
 
 - Get as close as you can - but it does not have to be perfect!
 
