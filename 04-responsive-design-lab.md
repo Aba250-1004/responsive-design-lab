@@ -28,7 +28,7 @@ The goal of this lab is to reproduce the `Smashing Magazine` website!
 
 ## Set Up
 
-- Create a `responsive_design_lab` folder in your starter  code and add an `index.html` file and a `style.css` file. 
+- Create a `responsive_design_lab` folder, and add an `index.html` file and a `style.css` file. 
 - Make sure to link these files!
 
 ## Hints
